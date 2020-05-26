@@ -1,0 +1,39 @@
+_repo: The-Danube-from-the-Black-Forest-to-the-Black-Sea_62150
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Parsons, Alfred
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '51796'
+    url: http://www.gutenberg.org/2009/agents/51796
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Parsons_(artist)
+creator:
+  author:
+    agent_name: Millet, Francis Davis
+    aliases:
+    - Millet, Frank D.
+    - Millet, F. D.
+    birthdate: 1846
+    deathdate: 1912
+    gutenberg_agent_id: '5851'
+    url: http://www.gutenberg.org/2009/agents/5851
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Davis_Millet
+description: Illustrated by the author and Alfred Parsons.
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Canoes and canoeing'
+- !lcsh 'Danube River Valley -- Description and travel'
+- !lcsh 'Danube River'
+- !lcc 'D'
+- GITenberg
+title: The Danube from the Black Forest to the Black Sea
+url: http://www.gutenberg.org/ebooks/62150
